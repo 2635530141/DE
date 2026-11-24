@@ -1,0 +1,3 @@
+-- Task B (cap 12 minutes). Spec: DIAGNOSTIC_TASKS.md.
+-- Write ONE query against `logins` returning user_id, streak_days, streak_start,
+-- ordered by user_id. Replace this comment block with your query.
